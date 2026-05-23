@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stable_at.aternos.me:14876",
+    "ip": "stable_at.aternos.me",
     "port": 14876,
     "version": "1.21.11",
     "try-creative": false
